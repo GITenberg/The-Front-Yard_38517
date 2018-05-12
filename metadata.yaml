@@ -1,0 +1,33 @@
+_repo: The-Front-Yard_38517
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38517-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Woolson, Constance Fenimore
+    alias: March, Anne
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '2041'
+    url: http://www.gutenberg.org/2009/agents/2041
+    wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
+description: ''
+gutenberg_issued: '2012-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38517'
+  lccn: 04015058
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Italy -- Social life and customs -- Fiction'
+- !lcsh 'Americans -- Italy -- Fiction'
+- !lcsh 'Short stories, American'
+tableOfContents: The front yard -- Neptune's shore -- A pink villa -- The street of
+  the Hyacinth -- A Christmas party -- In Venice.
+title: The Front Yard, and Other Italian Stories
+url: http://www.gutenberg.org/ebooks/38517
