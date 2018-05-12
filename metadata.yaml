@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2041
     wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38517#The-Front-Yard
 gutenberg_issued: '2012-01-07'
 gutenberg_type: Text
 identifiers:
